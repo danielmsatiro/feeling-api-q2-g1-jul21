@@ -11,308 +11,357 @@
   "phrases": [
     {
       "id": 1,
-      "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
-      "author": "Thomas Edison",
+      "phrase_text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      "phrase_author": "Thomas Edison",
       "comments": [
         {
-          "userId": 1,
-          "commentText": "",
+          "user_id": 1,
+          "user_name": "Kenzinho",
+          "comment_text": "",
           "date": "19-07-2021"
         }
       ],
-      "users_who_like": [
+      "users_who_liked": [
         {
-          "userId": 1
+          "user_id": 1
         }
       ]
     },
     {
-      "text": "You can observe a lot just by watching.",
-      "author": "Yogi Berra",
+      "id": 2,
+      "phrase_text": "You can observe a lot just by watching.",
+      "phrase_author": "Yogi Berra",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "A house divided against itself cannot stand.",
-      "author": "Abraham Lincoln",
+      "id": 3,
+      "phrase_text": "A house divided against itself cannot stand.",
+      "phrase_author": "Abraham Lincoln",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Difficulties increase the nearer we get to the goal.",
-      "author": "Johann Wolfgang von Goethe",
+      "id": 4,
+      "phrase_text": "Difficulties increase the nearer we get to the goal.",
+      "phrase_author": "Johann Wolfgang von Goethe",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Fate is in your hands and no one elses",
-      "author": "Byron Pulsifer",
+      "id": 5,
+      "phrase_text": "Fate is in your hands and no one elses",
+      "phrase_author": "Byron Pulsifer",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Be the chief but never the lord.",
-      "author": "Lao Tzu",
+      "id": 6,
+      "phrase_text": "Be the chief but never the lord.",
+      "phrase_author": "Lao Tzu",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Nothing happens unless first we dream.",
-      "author": "Carl Sandburg",
+      "id": 7,
+      "phrase_text": "Nothing happens unless first we dream.",
+      "phrase_author": "Carl Sandburg",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Well begun is half done.",
-      "author": "Aristotle",
+      "id": 8,
+      "phrase_text": "Well begun is half done.",
+      "phrase_author": "Aristotle",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Life is a learning experience, only if you learn.",
-      "author": "Yogi Berra",
+      "id": 9,
+      "phrase_text": "Life is a learning experience, only if you learn.",
+      "phrase_author": "Yogi Berra",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Self-complacency is fatal to progress.",
-      "author": "Margaret Sangster",
+      "id": 10,
+      "phrase_text": "Self-complacency is fatal to progress.",
+      "phrase_author": "Margaret Sangster",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Peace comes from within. Do not seek it without.",
-      "author": "Buddha",
+      "id": 11,
+      "phrase_text": "Peace comes from within. Do not seek it without.",
+      "phrase_author": "Buddha",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "What you give is what you get.",
-      "author": "Byron Pulsifer",
+      "id": 12,
+      "phrase_text": "What you give is what you get.",
+      "phrase_author": "Byron Pulsifer",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "We can only learn to love by loving.",
-      "author": "Iris Murdoch",
+      "id": 13,
+      "phrase_text": "We can only learn to love by loving.",
+      "phrase_author": "Iris Murdoch",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Life is change. Growth is optional. Choose wisely.",
-      "author": "Karen Clark",
+      "id": 14,
+      "phrase_text": "Life is change. Growth is optional. Choose wisely.",
+      "phrase_author": "Karen Clark",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "You'll see it when you believe it.",
-      "author": "Wayne Dyer",
+      "id": 15,
+      "phrase_text": "You'll see it when you believe it.",
+      "phrase_author": "Wayne Dyer",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Today is the tomorrow we worried about yesterday.",
-      "author": null,
+      "id": 16,
+      "phrase_text": "Today is the tomorrow we worried about yesterday.",
+      "phrase_author": null,
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "It's easier to see the mistakes on someone else's paper.",
-      "author": null,
+      "id": 17,
+      "phrase_text": "It's easier to see the mistakes on someone else's paper.",
+      "phrase_author": null,
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Every man dies. Not every man really lives.",
-      "author": null,
+      "id": 18,
+      "phrase_text": "Every man dies. Not every man really lives.",
+      "phrase_author": null,
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "To lead people walk behind them.",
-      "author": "Lao Tzu",
+      "id": 19,
+      "phrase_text": "To lead people walk behind them.",
+      "phrase_author": "Lao Tzu",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Having nothing, nothing can he lose.",
-      "author": "William Shakespeare",
+      "id": 20,
+      "phrase_text": "Having nothing, nothing can he lose.",
+      "phrase_author": "William Shakespeare",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Trouble is only opportunity in work clothes.",
-      "author": "Henry J. Kaiser",
+      "id": 21,
+      "phrase_text": "Trouble is only opportunity in work clothes.",
+      "phrase_author": "Henry J. Kaiser",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "A rolling stone gathers no moss.",
-      "author": "Publilius Syrus",
+      "id": 22,
+      "phrase_text": "A rolling stone gathers no moss.",
+      "phrase_author": "Publilius Syrus",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Ideas are the beginning points of all fortunes.",
-      "author": "Napoleon Hill",
+      "id": 23,
+      "phrase_text": "Ideas are the beginning points of all fortunes.",
+      "phrase_author": "Napoleon Hill",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Everything in life is luck.",
-      "author": "Donald Trump",
+      "id": 24,
+      "phrase_text": "Everything in life is luck.",
+      "phrase_author": "Donald Trump",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Doing nothing is better than being busy doing nothing.",
-      "author": "Lao Tzu",
+      "id": 25,
+      "phrase_text": "Doing nothing is better than being busy doing nothing.",
+      "phrase_author": "Lao Tzu",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Trust yourself. You know more than you think you do.",
-      "author": "Benjamin Spock",
+      "id": 26,
+      "phrase_text": "Trust yourself. You know more than you think you do.",
+      "phrase_author": "Benjamin Spock",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Study the past, if you would divine the future.",
-      "author": "Confucius",
+      "id": 27,
+      "phrase_text": "Study the past, if you would divine the future.",
+      "phrase_author": "Confucius",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "The day is already blessed, find peace within it.",
-      "author": null,
+      "id": 28,
+      "phrase_text": "The day is already blessed, find peace within it.",
+      "phrase_author": null,
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "From error to error one discovers the entire truth.",
-      "author": "Sigmund Freud",
+      "id": 29,
+      "phrase_text": "From error to error one discovers the entire truth.",
+      "phrase_author": "Sigmund Freud",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Well done is better than well said.",
-      "author": "Benjamin Franklin",
+      "id": 30,
+      "phrase_text": "Well done is better than well said.",
+      "phrase_author": "Benjamin Franklin",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Bite off more than you can chew, then chew it.",
-      "author": "Ella Williams",
+      "id": 31,
+      "phrase_text": "Bite off more than you can chew, then chew it.",
+      "phrase_author": "Ella Williams",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Work out your own salvation. Do not depend on others.",
-      "author": "Buddha",
+      "id": 32,
+      "phrase_text": "Work out your own salvation. Do not depend on others.",
+      "phrase_author": "Buddha",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "One today is worth two tomorrows.",
-      "author": "Benjamin Franklin",
+      "id": 33,
+      "phrase_text": "One today is worth two tomorrows.",
+      "phrase_author": "Benjamin Franklin",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Once you choose hope, anythings possible.",
-      "author": "Christopher Reeve",
+      "id": 34,
+      "phrase_text": "Once you choose hope, anythings possible.",
+      "phrase_author": "Christopher Reeve",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "God always takes the simplest way.",
-      "author": "Albert Einstein",
+      "id": 35,
+      "phrase_text": "God always takes the simplest way.",
+      "phrase_author": "Albert Einstein",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "One fails forward toward success.",
-      "author": "Charles Kettering",
+      "id": 36,
+      "phrase_text": "One fails forward toward success.",
+      "phrase_author": "Charles Kettering",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "From small beginnings come great things.",
-      "author": null,
+      "id": 37,
+      "phrase_text": "From small beginnings come great things.",
+      "phrase_author": null,
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Learning is a treasure that will follow its owner everywhere",
-      "author": "Chinese proverb",
+      "id": 38,
+      "phrase_text": "Learning is a treasure that will follow its owner everywhere",
+      "phrase_author": "Chinese proverb",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Be as you wish to seem.",
-      "author": "Socrates",
+      "id": 39,
+      "phrase_text": "Be as you wish to seem.",
+      "phrase_author": "Socrates",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "The world is always in movement.",
-      "author": "V. Naipaul",
+      "id": 40,
+      "phrase_text": "The world is always in movement.",
+      "phrase_author": "V. Naipaul",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Never mistake activity for achievement.",
-      "author": "John Wooden",
+      "id": 41,
+      "phrase_text": "Never mistake activity for achievement.",
+      "phrase_author": "John Wooden",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "What worries you masters you.",
-      "author": "Haddon Robinson",
+      "id": 42,
+      "phrase_text": "What worries you masters you.",
+      "phrase_author": "Haddon Robinson",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "One faces the future with ones past.",
-      "author": "Pearl Buck",
+      "id": 43,
+      "phrase_text": "One faces the future with ones past.",
+      "phrase_author": "Pearl Buck",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Goals are the fuel in the furnace of achievement.",
-      "author": "Brian Tracy",
+      "id": 44,
+      "phrase_text": "Goals are the fuel in the furnace of achievement.",
+      "phrase_author": "Brian Tracy",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Who sows virtue reaps honour.",
-      "author": "Leonardo da Vinci",
+      "id": 45,
+      "phrase_text": "Who sows virtue reaps honour.",
+      "phrase_author": "Leonardo da Vinci",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Be kind whenever possible. It is always possible.",
-      "author": "Dalai Lama",
+      "id": 46,
+      "phrase_text": "Be kind whenever possible. It is always possible.",
+      "phrase_author": "Dalai Lama",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "Talk doesn't cook rice.",
-      "author": "Chinese proverb",
+      "id": 47,
+      "phrase_text": "Talk doesn't cook rice.",
+      "phrase_author": "Chinese proverb",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "He is able who thinks he is able.",
-      "author": "Buddha",
+      "id": 48,
+      "phrase_text": "He is able who thinks he is able.",
+      "phrase_author": "Buddha",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     },
     {
-      "text": "A goal without a plan is just a wish.",
-      "author": "Larry Elder",
+      "id": 49,
+      "phrase_text": "A goal without a plan is just a wish.",
+      "phrase_author": "Larry Elder",
       "comments": [],
-      "users_who_like": []
+      "users_who_liked": []
     }
   ]
 }
