@@ -495,36 +495,7 @@
       "id": 97
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "userId": 1,
-      "phraseId": 1,
-      "commentphraseText": "",
-      "date": "19-07-2021"
-    },
-    {
-      "userId": 2,
-      "commentphraseText": "Loucura, loucura, loucura...",
-      "date": "20-07-2021",
-      "phraseId": 1,
-      "id": 2
-    },
-    {
-      "userId": 2,
-      "commentphraseText": "Agora eu vou falar...",
-      "date": "20-07-2021",
-      "phraseId": 1,
-      "id": 3
-    },
-    {
-      "userId": 2,
-      "commentphraseText": "Loucura, loucura, loucura...",
-      "date": "20-07-2021",
-      "phraseId": 1,
-      "id": 4
-    }
-  ],
+  "comments": [],
   "users_who_like": [
     {
       "id": 1,
