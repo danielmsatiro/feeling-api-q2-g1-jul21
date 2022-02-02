@@ -12,6 +12,12 @@
       "password": "$2a$10$S7IcbCsYYOp9GqLu.0dnFO.CBT.NGurVI56skJv7EDegvODhPpN2S",
       "name": "DANIEL MATEUS SATIRO",
       "id": 2
+    },
+    {
+      "email": "duckie@debugie.com",
+      "password": "$2a$10$QrJ5KkWvVQBryqZPBhVVAO7zMurqa1/RXgv5X1phz6cc1h9rfaqj.",
+      "name": "Patito",
+      "id": 3
     }
   ],
   "phrases": [
