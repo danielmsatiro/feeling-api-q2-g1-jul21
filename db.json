@@ -47,7 +47,8 @@
       "id": 5
     },
     {
-      "phraseText": "Você perde 100% dos tiros que não dá”- Wayne Gretzky",
+      "phraseText": "Você perde 100% dos tiros que não dá",
+      "phraseAuthor": "Wayne Gretzky",
       "id": 6
     },
     {
@@ -61,7 +62,7 @@
       "id": 8
     },
     {
-      "phraseText": "Todo strike me aproxima do próximo home run",
+      "phraseText": "Todo strike me aproxima do próximo home run",
       "phraseAuthor": "Babe Ruth",
       "id": 9
     },
@@ -106,7 +107,8 @@
       "id": 17
     },
     {
-      "phraseText": "A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor é agora” – Provérbio Chinês",
+      "phraseText": "A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor é agora",
+      "phraseAuthor": "Provérbio Chinês",
       "id": 18
     },
     {
@@ -184,7 +186,7 @@
       "id": 33
     },
     {
-      "phraseText": "Se você ouve uma voz dentro de você dizendo ‘você não pode pintar’, então pinte e essa voz será silenciada",
+      "phraseText": "Se você ouve uma voz dentro de você dizendo 'você não pode pintar', então pinte e essa voz será silenciada",
       "phraseAuthor": "Vincent Van Gogh",
       "id": 34
     },
@@ -229,7 +231,7 @@
       "id": 42
     },
     {
-      "phraseText": "Quando eu tinha 5 anos de idade, minha mãe me disse que a felicidade era a chave para a vida. Quando eu fui para a escola, eles me perguntaram o que eu queria ser quando crescesse. Eu escrevi ‘feliz’. Eles me disseram que eu não entendi a tarefa, e eu disse a eles que eles não entendiam a vida",
+      "phraseText": "Quando eu tinha 5 anos de idade, minha mãe me disse que a felicidade era a chave para a vida. Quando eu fui para a escola, eles me perguntaram o que eu queria ser quando crescesse. Eu escrevi 'feliz'. Eles me disseram que eu não entendi a tarefa, e eu disse a eles que eles não entendiam a vida",
       "phraseAuthor": "John Lennon",
       "id": 43
     },
@@ -349,7 +351,8 @@
       "id": 66
     },
     {
-      "phraseText": "Um homem verdadeiramente rico é aquele cujos filhos correm para seus braços quando suas mãos estão vazias”- Autor desconhecido",
+      "phraseText": "Um homem verdadeiramente rico é aquele cujos filhos correm para seus braços quando suas mãos estão vazias",
+      "phraseAuthor": "Autor desconhecido",
       "id": 67
     },
     {
@@ -368,7 +371,8 @@
       "id": 70
     },
     {
-      "phraseText": "As batalhas que contam não são apenas as medalhas de ouro. As lutas dentro de si, as batalhas invisíveis dentro de todos nós, é o que vale a pena”- Jesse Owens",
+      "phraseText": "As batalhas que contam não são apenas as medalhas de ouro. As lutas dentro de si, as batalhas invisíveis dentro de todos nós, é o que vale a pena",
+      "phraseAuthor": "Jesse Owens",
       "id": 71
     },
     {
@@ -472,7 +476,7 @@
       "id": 91
     },
     {
-      "phraseText": "Nada é impossível, a própria palavra diz ‘eu sou possível’ [i’m possible, em inglês]",
+      "phraseText": "Nada é impossível, a própria palavra diz 'eu sou possível' [i'm possible, em inglês]",
       "phraseAuthor": "Audrey Hepburn",
       "id": 92
     },
@@ -487,7 +491,8 @@
       "id": 94
     },
     {
-      "phraseText": "Muitos de nós não estamos vivendo nossos sonhos porque estamos vivendo nossos medos”- Les Brown",
+      "phraseText": "Muitos de nós não estamos vivendo nossos sonhos porque estamos vivendo nossos medos",
+      "phraseAuthor": "Les Brown",
       "id": 95
     },
     {
@@ -506,176 +511,181 @@
       "id": 1,
       "userId": 1,
       "phraseId": 1,
-      "commentText": "frase 1"
+      "commentText": "Obrigado, era justamente que eu precisava!"
     },
     {
       "id": 2,
       "userId": 1,
       "phraseId": 2,
-      "commentText": "frase 2"
+      "commentText": "Resume tudo que estou sentindo"
     },
     {
       "id": 3,
       "userId": 1,
       "phraseId": 3,
-      "commentText": "frase 3"
+      "commentText": "Depois de ler, estou mais confiante"
     },
     {
       "id": 4,
       "userId": 1,
       "phraseId": 4,
-      "commentText": "frase 4"
+      "commentText": "Escrita para mim!"
     },
     {
       "id": 5,
       "userId": 1,
       "phraseId": 5,
-      "commentText": "frase 5"
+      "commentText": "Gostaria ter conhecido o autor"
     },
     {
       "id": 6,
       "userId": 1,
       "phraseId": 6,
-      "commentText": "frase 6"
+      "commentText": "Alguém que me explique!"
     },
     {
       "id": 7,
       "userId": 1,
       "phraseId": 7,
-      "commentText": "frase 7"
+      "commentText": "Mel para o meu cérebro!"
     },
     {
       "id": 8,
       "userId": 1,
       "phraseId": 8,
-      "commentText": "frase 8"
+      "commentText": "Me devolveu a confiança"
     },
     {
       "id": 9,
       "userId": 1,
       "phraseId": 9,
-      "commentText": "frase 9"
+      "commentText": "Não tenho palavras, me conmoveu!"
     },
     {
       "id": 10,
       "userId": 1,
       "phraseId": 10,
-      "commentText": "frase 10"
+      "commentText": "Simplesmente, me fascinou"
     },
     {
       "id": 11,
       "userId": 2,
       "phraseId": 1,
-      "commentText": "frase 1"
+      "commentText": "Mel para o meu cérebro!"
     },
     {
       "id": 12,
       "userId": 2,
       "phraseId": 2,
-      "commentText": "frase 2"
+      "commentText": "Simplesmente, me fascinou"
     },
-    { "id": 13, "userId": "2", "phraseId": "3", "commentText": "frase 3" },
+    {
+      "id": 13,
+      "userId": 2,
+      "phraseId": 3,
+      "commentText": "Não tenho palavras, me conmoveu!"
+    },
     {
       "id": 14,
       "userId": 2,
       "phraseId": 4,
-      "commentText": "frase 4"
+      "commentText": "Gostaria ter conhecido o autor"
     },
     {
       "id": 15,
       "userId": 2,
       "phraseId": 5,
-      "commentText": "frase 5"
+      "commentText": "Resume tudo que estou sentindo"
     },
     {
       "id": 16,
       "userId": 2,
       "phraseId": 6,
-      "commentText": "frase 6"
+      "commentText": "Escrita para mim!"
     },
     {
       "id": 17,
       "userId": 2,
       "phraseId": 7,
-      "commentText": "frase 7"
+      "commentText": "Alguém que me explique!"
     },
     {
       "id": 18,
       "userId": 2,
       "phraseId": 8,
-      "commentText": "frase 8"
+      "commentText": "Obrigado, era justamente que eu precisava!"
     },
     {
       "id": 19,
       "userId": 2,
       "phraseId": 9,
-      "commentText": "frase 9"
+      "commentText": "Me devolveu a confiança"
     },
     {
       "id": 20,
       "userId": 2,
       "phraseId": 10,
-      "commentText": "frase 10"
+      "commentText": "Depois de ler, estou mais confiante"
     },
     {
       "id": 21,
       "userId": 3,
       "phraseId": 1,
-      "commentText": "frase 1"
+      "commentText": "Resume tudo que estou sentindo"
     },
     {
       "id": 22,
       "userId": 3,
       "phraseId": 2,
-      "commentText": "frase 2"
+      "commentText": "Alguém que me explique!"
     },
     {
       "id": 23,
       "userId": 3,
       "phraseId": 3,
-      "commentText": "frase 3"
+      "commentText": "Escrita para mim!"
     },
     {
       "id": 24,
       "userId": 3,
       "phraseId": 4,
-      "commentText": "frase 4"
+      "commentText": "Não tenho palavras, me conmoveu!"
     },
     {
       "id": 25,
       "userId": 3,
       "phraseId": 5,
-      "commentText": "frase 5"
+      "commentText": "Obrigado, era justamente que eu precisava!"
     },
     {
       "id": 26,
       "userId": 3,
       "phraseId": 6,
-      "commentText": "frase 6"
+      "commentText": "Me devolveu a confiança"
     },
     {
       "id": 27,
       "userId": 3,
       "phraseId": 7,
-      "commentText": "frase 7"
+      "commentText": "Depois de ler, estou mais confiante"
     },
     {
       "id": 28,
       "userId": 3,
       "phraseId": 8,
-      "commentText": "frase 8"
+      "commentText": "Simplesmente, me fascinou"
     },
     {
       "id": 29,
       "userId": 3,
       "phraseId": 9,
-      "commentText": "frase 9"
+      "commentText": "Gostaria ter conhecido o autor!"
     },
     {
       "id": 30,
       "userId": 3,
       "phraseId": 10,
-      "commentText": "frase 10"
+      "commentText": "Mel para o meu cérebro!"
     }
   ],
   "users_who_like": [
