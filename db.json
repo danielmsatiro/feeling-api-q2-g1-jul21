@@ -47,7 +47,8 @@
       "id": 5
     },
     {
-      "phraseText": "Você perde 100% dos tiros que não dá”- Wayne Gretzky",
+      "phraseText": "Você perde 100% dos tiros que não dá",
+      "phraseAuthor": "Wayne Gretzky",
       "id": 6
     },
     {
@@ -61,7 +62,7 @@
       "id": 8
     },
     {
-      "phraseText": "Todo strike me aproxima do próximo home run",
+      "phraseText": "Todo strike me aproxima do próximo home run",
       "phraseAuthor": "Babe Ruth",
       "id": 9
     },
@@ -106,7 +107,8 @@
       "id": 17
     },
     {
-      "phraseText": "A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor é agora” – Provérbio Chinês",
+      "phraseText": "A melhor época para plantar uma árvore foi há 20 anos. A segunda melhor é agora",
+      "phraseAuthor": "Provérbio Chinês",
       "id": 18
     },
     {
@@ -120,7 +122,8 @@
       "id": 20
     },
     {
-      "phraseText": "Seu tempo é limitado, então não o gaste vivendo a vida de outra pessoa”—Steve Jobs",
+      "phraseText": "Seu tempo é limitado, então não o gaste vivendo a vida de outra pessoa",
+      "phraseAuthor": "Steve Jobs",
       "id": 21
     },
     {
@@ -184,7 +187,7 @@
       "id": 33
     },
     {
-      "phraseText": "Se você ouve uma voz dentro de você dizendo ‘você não pode pintar’, então pinte e essa voz será silenciada",
+      "phraseText": "Se você ouve uma voz dentro de você dizendo 'você não pode pintar', então pinte e essa voz será silenciada",
       "phraseAuthor": "Vincent Van Gogh",
       "id": 34
     },
@@ -229,7 +232,7 @@
       "id": 42
     },
     {
-      "phraseText": "Quando eu tinha 5 anos de idade, minha mãe me disse que a felicidade era a chave para a vida. Quando eu fui para a escola, eles me perguntaram o que eu queria ser quando crescesse. Eu escrevi ‘feliz’. Eles me disseram que eu não entendi a tarefa, e eu disse a eles que eles não entendiam a vida",
+      "phraseText": "Quando eu tinha 5 anos de idade, minha mãe me disse que a felicidade era a chave para a vida. Quando eu fui para a escola, eles me perguntaram o que eu queria ser quando crescesse. Eu escrevi 'feliz'. Eles me disseram que eu não entendi a tarefa, e eu disse a eles que eles não entendiam a vida",
       "phraseAuthor": "John Lennon",
       "id": 43
     },
@@ -349,7 +352,8 @@
       "id": 66
     },
     {
-      "phraseText": "Um homem verdadeiramente rico é aquele cujos filhos correm para seus braços quando suas mãos estão vazias”- Autor desconhecido",
+      "phraseText": "Um homem verdadeiramente rico é aquele cujos filhos correm para seus braços quando suas mãos estão vazias",
+      "phraseAuthor": "Autor desconhecido",
       "id": 67
     },
     {
@@ -368,7 +372,8 @@
       "id": 70
     },
     {
-      "phraseText": "As batalhas que contam não são apenas as medalhas de ouro. As lutas dentro de si, as batalhas invisíveis dentro de todos nós, é o que vale a pena”- Jesse Owens",
+      "phraseText": "As batalhas que contam não são apenas as medalhas de ouro. As lutas dentro de si, as batalhas invisíveis dentro de todos nós, é o que vale a pena",
+      "phraseAuthor": "Jesse Owens",
       "id": 71
     },
     {
@@ -472,7 +477,7 @@
       "id": 91
     },
     {
-      "phraseText": "Nada é impossível, a própria palavra diz ‘eu sou possível’ [i’m possible, em inglês]",
+      "phraseText": "Nada é impossível, a própria palavra diz 'eu sou possível' [i'm possible, em inglês]",
       "phraseAuthor": "Audrey Hepburn",
       "id": 92
     },
@@ -487,7 +492,8 @@
       "id": 94
     },
     {
-      "phraseText": "Muitos de nós não estamos vivendo nossos sonhos porque estamos vivendo nossos medos”- Les Brown",
+      "phraseText": "Muitos de nós não estamos vivendo nossos sonhos porque estamos vivendo nossos medos",
+      "phraseAuthor": "Les Brown",
       "id": 95
     },
     {
