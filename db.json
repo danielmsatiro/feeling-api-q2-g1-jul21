@@ -18,6 +18,12 @@
       "password": "$2a$10$QrJ5KkWvVQBryqZPBhVVAO7zMurqa1/RXgv5X1phz6cc1h9rfaqj.",
       "name": "Patito",
       "id": 3
+    },
+    {
+      "email": "teste@yahoo.com.br",
+      "password": "$2a$10$PgoWR5jKL4YssJ8d2esZ..01vxaFWktp9gdFrSlWiQodWnSPiyliS",
+      "name": "Daniel",
+      "id": 4
     }
   ],
   "phrases": [
@@ -569,28 +575,10 @@
       "commentText": "Simplesmente, me fascinou"
     },
     {
-      "id": 11,
-      "userId": 2,
-      "phraseId": 1,
-      "commentText": "Mel para o meu cérebro!"
-    },
-    {
-      "id": 12,
-      "userId": 2,
-      "phraseId": 2,
-      "commentText": "Simplesmente, me fascinou"
-    },
-    {
       "id": 13,
       "userId": 2,
       "phraseId": 3,
       "commentText": "Não tenho palavras, me conmoveu!"
-    },
-    {
-      "id": 14,
-      "userId": 2,
-      "phraseId": 4,
-      "commentText": "Gostaria ter conhecido o autor"
     },
     {
       "id": 15,
@@ -687,6 +675,12 @@
       "userId": 3,
       "phraseId": 10,
       "commentText": "Mel para o meu cérebro!"
+    },
+    {
+      "phraseId": 53,
+      "userId": 2,
+      "commentText": "Teste",
+      "id": 31
     }
   ],
   "users_who_like": [
@@ -697,13 +691,28 @@
     },
     {
       "userId": 2,
-      "phraseId": 4,
-      "id": 2
+      "phraseId": 25,
+      "id": 7
     },
     {
       "userId": 2,
-      "phraseId": 4,
-      "id": 3
+      "phraseId": 3,
+      "id": 9
+    },
+    {
+      "userId": 2,
+      "phraseId": 53,
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "phraseId": 1,
+      "id": 12
+    },
+    {
+      "userId": 2,
+      "phraseId": 2,
+      "id": 13
     }
   ]
 }
